@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|d:\\full stack development net data\\iti 4 months full stack dev using .net\\c#\\project attendence system\\c# project\\finalfirstversion\\user control model\\dal\\dalfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|solutionrelative:dal\\dalfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|solutionrelative:addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812E49D8-039A-42BE-8E82-7E536AF300B7}|user control model.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALFunctions.cs",
+              "DocumentMoniker": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\DAL\\DALFunctions.cs",
+              "RelativeDocumentMoniker": "DAL\\DALFunctions.cs",
+              "ToolTip": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\DAL\\DALFunctions.cs",
+              "RelativeToolTip": "DAL\\DALFunctions.cs",
+              "ViewState": "AgIAABQAAAAAZmZmZuYjwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:16:06.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs [Design]",
+              "DocumentMoniker": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\Teacher.cs [Design]",
+              "RelativeToolTip": "Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:13:08.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cs [Design]",
+              "DocumentMoniker": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\student.cs [Design]",
+              "RelativeToolTip": "student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:12:09.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\AddStudent.cs",
+              "RelativeDocumentMoniker": "AddStudent.cs",
+              "ToolTip": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\AddStudent.cs [Design]",
+              "RelativeToolTip": "AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:11:57.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:34:37.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "D:\\full stack development net data\\iti 4 months full stack dev using .net\\C#\\Project Attendence System\\c# project\\FinalFirstVersion\\user control model\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAA1wDACAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:07:11.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
